@@ -6,6 +6,10 @@
 - The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions.
 - This dashboard could help in incresing the revenue at lest by 7% in the next quarter.
 
+![alt text](https://github.com/RathanRaju/Sales_Insights_Tableau/blob/main/Dashboard_Overview.png "Dashboard Overview")
+
+
+![alt text](https://github.com/RathanRaju/Sales_Insights_Tableau/blob/main/Profit_Analysis.png "Profit Analysis Overview")
 
 
 ## Data Analysis Using SQL
